@@ -1,4 +1,4 @@
-// 4.cpp : コンソール アプリケーション用のエントリ ポイントの定義
+// chk_scr.cpp : 
 //
 #include "stdafx.h"
 #include "tlhelp32.h"
